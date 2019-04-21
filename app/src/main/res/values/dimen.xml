@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Màn hình đăng ký
+    <dimen name="sizeTieuDeManHinhDangKy">35dp</dimen>
+    <dimen name="magrinScreen">20dp</dimen>
+    //Màn hình thêm
+    <dimen name="sizeTenMonAn">20sp</dimen>
+    //Màn hình nổi bật
+    <dimen name="marginListView">5sp</dimen>
+    <dimen name="sizeTenNguoiDang">20sp</dimen>
+    <dimen name="sizeTextNormal">15sp</dimen>
+    <dimen name="sizeTextThich">10sp</dimen>
+    <dimen name="sizetext">15sp</dimen>
+    <dimen name="sizetext2">10sp</dimen>
+    <dimen name="maginBottom">5sp</dimen>
+    <dimen name="sizetextql">15sp</dimen>
+
+    <dimen name="sizeTenNguoiDung">20sp</dimen>
+</resources>
